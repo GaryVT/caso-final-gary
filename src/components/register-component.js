@@ -170,7 +170,7 @@ class RegisterComponent extends HTMLElement {
     // Nuevo usuario
     users.push({ name, email, password });
     localStorage.setItem("users", JSON.stringify(users));
-    alert("Registro exitoso. Puedes iniciar sesión ahora.");
+    //alert("Registro exitoso. Puedes iniciar sesión ahora.");
     window.location.href = "/src/pages/html/login.html"; // Redirigir a login
   }
 
