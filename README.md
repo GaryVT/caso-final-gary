@@ -6,13 +6,13 @@ Este proyecto utiliza las siguientes versiones de herramientas y dependencias:
 
 - **Node.js**: `v18.16.0` 
 - **npm**: `v9.6.7`
-- **Vite**: `vite@6.0.7` (o la versión específica que estás utilizando)
+- **Vite**: `vite@6.0.7` 
 
 
 ## Instalación:
 
-1. Asegúrate de tener instalada la versión correcta de Node.js. Si no la tienes, puedes instalarla desde [Node.js](https://nodejs.org/).
-2. Clona este repositorio.
+1. Asegurarse de tener instalada la versión correcta de Node.js. Si no la tienen, pueden instalarla desde [Node.js](https://nodejs.org/).
+2. Clonar este repositorio.
 3. Ejecuta el siguiente comando para instalar las dependencias:
 
    ```bash
