@@ -2,10 +2,12 @@
 
 Este proyecto utiliza las siguientes versiones de herramientas y dependencias:
 
-## Versiones de herramientas necesarias:
+## Versiones de herramientas en las que se desarrolló:
 
-- **Node.js**: `v16.x.x` (o la versión específica que estés utilizando)
-- **npm**: `v8.x.x` (si es relevante)
+- **Node.js**: `v18.16.0` 
+- **npm**: `v9.6.7`
+- **Vite**: `vite@6.0.7` (o la versión específica que estás utilizando)
+
 
 ## Instalación:
 
