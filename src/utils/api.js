@@ -3,7 +3,7 @@ const API_URL = "https://678ade47dd587da7ac2b99f6.mockapi.io/tasks/tasks";
 // Obtener tareas
 export async function fetchTasks() {
   const response = await fetch(API_URL);
-  if (!response.ok) {
+  if (!response.ok) {// tmb validar el status 200, si responde mensage de error
     throw new Error("Error al obtener las tareas");
   }
   const tasks = await response.json();

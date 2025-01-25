@@ -77,3 +77,10 @@ export function setupEventHandlers(taskList, taskForm) {
     });
   })();
 }
+
+/*
+Eventos generales en este manejador de eventos
+Eventos propios deu n componente solo va en el mismo componnte
+--
+carpeta -> rutas, paginas -> llama componentes (anidados, uno llamaa al otro CSS Module), services (dir, cosumo de serv)
+*/
